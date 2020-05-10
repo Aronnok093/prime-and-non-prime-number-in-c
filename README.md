@@ -1,0 +1,1 @@
+# prime-and-non-prime-number-in-c
